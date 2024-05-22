@@ -1,6 +1,6 @@
 <h1 align="center">Hellow! 👋</h1>
 <p align="center">
-Hi there! I'm <b>Steven</b>, a French developer and the founder of @peckify. We're a French web agency dedicated to crafting websites for your business. Primarily focused on Front-end development, but I'm also capable of handling some back-end tasks as well.
+Hi there! I'm <b>Steven</b>, a French developer and the founder of <a href="https://github.com/Peckify">@peckify</a>. We're a French web agency dedicated to crafting websites for your business. Primarily focused on Front-end development, but I'm also capable of handling some back-end tasks as well.
 </p>
 <h2 align="center">🎨 My skills </h2>
 <p align="center">

@@ -22,7 +22,7 @@ Hi there! I'm <b>Steven</b>, a French developer and the founder of <a href="http
   <img src="https://img.shields.io/badge/Photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Premiere%20Pro%20-%23323330.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
   <img src="https://img.shields.io/badge/macos%20-%23323330.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-<h2 align="center"> Discord! </h2>
-<img src="https://lanyard-profile-readme.vercel.app/api/327878748466839552" align="center">
+<h2 align="center"> See ya! </h2>
+<a href="https://app.daily.dev/stevented"><img src="https://api.daily.dev/devcards/v2/CoTPxuj5eSOtEjwBWC6Ex.png?r=zmz&type=default" width="356" alt="Steven's Dev Card"/></a>
 </div>
 <p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a></</p>

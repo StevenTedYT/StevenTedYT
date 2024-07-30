@@ -2,7 +2,7 @@
   <h3> Hellow, i'm <b>Steven</b> 👋 </h3>
   <h4> Hi there! I'm Steven, a French developer and the founder of <a href="https://github.com/Peckify">@peckify</a>.</h4>
   <br>
-  ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/StevenTedYT/StevenTedYT/output/snake.svg)
+  <img src="https://raw.githubusercontent.com/StevenTedYT/StevenTedYT/output/snake.svg" height="192" width="880">
 
 ---
 <h3>Socials</h3>

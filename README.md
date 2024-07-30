@@ -1,28 +1,50 @@
-<h1 align="center">Hellow! 👋</h1>
-<p align="center">
-Hi there! I'm <b>Steven</b>, a French developer and the founder of <a href="https://github.com/Peckify">@peckify</a>. We're a French web agency dedicated to crafting websites for your business. Primarily focused on Front-end development, but I'm also capable of handling some back-end tasks as well.
-</p>
-<h2 align="center">🎨 My skills </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webflow%20-%23323330.svg?&style=for-the-badge&logo=webflow&logoColor=white"/>
-<div align="center">
-<h2 align="center">🛠️ My Tools & Softwares</h2>
-  <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite.js%20-%23323330.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/arc%20-%23323330.svg?&style=for-the-badge&logo=arc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Premiere%20Pro%20-%23323330.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macos%20-%23323330.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-<h2 align="center"> See ya! </h2>
-<a href="https://app.daily.dev/stevented"><img src="https://api.daily.dev/devcards/v2/CoTPxuj5eSOtEjwBWC6Ex.png?r=zmz&type=default" width="356" alt="Steven's Dev Card"/></a>
+<div id="by_untanukii" align="center">
+  <h3> Hellow, i'm <b>Steven</b> 👋 </h3>
+  <h4> Hi there! I'm Steven, a French developer and the founder of <a href="https://github.com/Peckify">@peckify</a>.</h4>
+  <br>
+
+---
+<h3>Socials</h3>
+<div>
+  <a href="https://discord.com/users/327878748466839552"><img src="https://skillicons.dev/icons?i=discord" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://x.com/StevenTedOff"><img src="https://skillicons.dev/icons?i=twitter" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://instagram.com/steventedoff/"><img src="https://skillicons.dev/icons?i=instagram" height="38" width="38"></a>
 </div>
-<p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a></</p>
+
+<h3>Languages, Tools & Frameworks</h3>
+<div>
+  <a href="https://w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://webflow.com/"><img src="https://skillicons.dev/icons?i=webflow" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://nodejs.org/fr"><img src="https://skillicons.dev/icons?i=nodejs" height="38" width="38"></a>
+  <br>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://notion.so"><img src="https://skillicons.dev/icons?i=notion" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://apple.com/fr/macos/macos-sequoia-preview/"><img src="https://skillicons.dev/icons?i=apple" height="38" width="38"></a>
+</div>
+</div>

@@ -10,6 +10,8 @@
 
 - 📷 Traveled to 🇫🇷🇮🇹🇪🇸🇺🇸🇳🇴🇸🇲🇲🇨🇨🇭
 
+- 📊 Check my [WakaTime Profile](https://wakatime.com/@StevenTed) for more statistics
+
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/StevenTedYT/StevenTedYT/output/snake.svg)
 
 ---

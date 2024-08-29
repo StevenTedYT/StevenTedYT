@@ -59,3 +59,5 @@
 [![Apple](https://skillicons.dev/icons?i=apple)](https://apple.com/fr/macos/macos-sequoia-preview/)
 &nbsp;
 [![FlutterFlow](https://skillicons.dev/icons?i=flutter)](https://flutterflow.io/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenTedYT&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=0D1117&hide_total_contributions=true)](https://git.io/streak-stats)

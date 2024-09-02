@@ -41,6 +41,8 @@
 [![Webflow](https://skillicons.dev/icons?i=webflow)](https://webflow.com/)
 &nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
+&nbsp;
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 <br>
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;

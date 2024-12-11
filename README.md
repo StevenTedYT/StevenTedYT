@@ -34,6 +34,8 @@
 &nbsp;
 [![PHP](https://skillicons.dev/icons?i=php)](https://php.net/)
 &nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+&nbsp;
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -41,9 +43,9 @@
 [![Webflow](https://skillicons.dev/icons?i=webflow)](https://webflow.com/)
 &nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
-&nbsp;
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 <br>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+&nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;
 [![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so)
@@ -59,7 +61,5 @@
 [![Premiere](https://skillicons.dev/icons?i=pr)](https://adobe.com/products/premiere.html)
 &nbsp;
 [![Apple](https://skillicons.dev/icons?i=apple)](https://apple.com/fr/macos/macos-sequoia-preview/)
-&nbsp;
-[![FlutterFlow](https://skillicons.dev/icons?i=flutter)](https://flutterflow.io/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenTedYT&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=0D1117&hide_total_contributions=true)](https://git.io/streak-stats)

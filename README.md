@@ -48,6 +48,8 @@
 &nbsp;
 [![Webflow](https://skillicons.dev/icons?i=webflow)](https://webflow.com/)
 &nbsp;
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+&nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
 &nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
@@ -58,12 +60,12 @@
 &nbsp;
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 &nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-&nbsp;
 [![Apple](https://skillicons.dev/icons?i=apple)](https://apple.com/fr/macos/macos-sequoia-preview/)
 <br>
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://adobe.com/products/photoshop.html)
 &nbsp;
 [![Premiere](https://skillicons.dev/icons?i=pr)](https://adobe.com/products/premiere.html)
+&nbsp;
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenTedYT&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=0D1117&hide_total_contributions=true)](https://git.io/streak-stats)

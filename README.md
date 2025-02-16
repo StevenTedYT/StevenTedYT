@@ -67,5 +67,3 @@
 [![Premiere](https://skillicons.dev/icons?i=pr)](https://adobe.com/products/premiere.html)
 &nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenTedYT&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=0D1117&hide_total_contributions=true)](https://git.io/streak-stats)

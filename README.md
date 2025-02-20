@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona-Sans&weight=900&size=24&duration=2000&pause=1000&color=61E958&width=435&lines=Hellow%2C+i'm+Steven+%F0%9F%91%8B;Hey%2C+je+suis+Steven+%F0%9F%91%8B;%E3%82%84%E3%81%82%E3%80%81%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%81%A0%E3%82%88%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 💻 Currently working at [@peckify](https://github.com/Peckify) & [@Deris.dev](https://github.com/Deris-dev)
+- 💻 Currently working at [@peckify](https://github.com/Peckify) & [@deris.dev](https://github.com/Deris-dev)
   
 - 🖥️ Actually working on multiple iOS and Android apps with **React Native**
 

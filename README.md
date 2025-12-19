@@ -38,7 +38,7 @@
 &nbsp;
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 &nbsp;
-[![Astro](https://skillicons.dev/icons?i=astro)](https://https://astro.build/)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
 <br>
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 &nbsp;

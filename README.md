@@ -8,8 +8,6 @@
 
 - 📷 Traveled to 🇫🇷🇮🇹🇪🇸🇺🇸🇳🇴🇸🇲🇲🇨🇨🇭
 
-- 📊 Check my [WakaTime Profile](https://wakatime.com/@StevenTed) for more statistics
-
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/StevenTedYT/StevenTedYT/output/snake.svg)
 
 ---
@@ -36,15 +34,17 @@
 &nbsp;
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
 &nbsp;
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
-&nbsp;
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 &nbsp;
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+&nbsp;
+[![Astro](https://skillicons.dev/icons?i=astro)](https://https://astro.build/)
 <br>
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 &nbsp;
 [![Webflow](https://skillicons.dev/icons?i=webflow)](https://webflow.com/)
+&nbsp;
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 &nbsp;
@@ -54,14 +54,14 @@
 &nbsp;
 [![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so)
 &nbsp;
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-&nbsp;
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 &nbsp;
-[![Apple](https://skillicons.dev/icons?i=apple)](https://apple.com/fr/macos/macos-sequoia-preview/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 <br>
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://adobe.com/products/photoshop.html)
 &nbsp;
 [![Premiere](https://skillicons.dev/icons?i=pr)](https://adobe.com/products/premiere.html)
 &nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+&nbsp;
+[![Apple](https://skillicons.dev/icons?i=apple)](https://apple.com/fr/macos/macos-sequoia-preview/)
